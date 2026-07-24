@@ -1,6 +1,6 @@
 # Hi, I'm Raphael 👋
 
-Pronouns: `[fill in — he/him, she/her, they/them, etc.]`
+Pronouns: `he/him`
 
 ## About Me
 
