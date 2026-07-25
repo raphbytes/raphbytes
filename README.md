@@ -8,7 +8,7 @@ I'm a developer with a depth-first approach to learning — I'd rather deeply un
 
 ## 🚧 Currently Building
 
-**[Nexera](#)** — a cinematic data visualization portfolio SPA built with vanilla JavaScript, D3.js, and Three.js.
+**[Mirador](#)** — a cinematic data visualization portfolio SPA built with vanilla JavaScript, D3.js, and Three.js.
 
 It's both a serious technical vehicle for learning and a portfolio piece: a two-zone architecture (lightweight marketing/auth shell + a heavy dashboard SPA), an Express backend on Render, MongoDB Atlas, deployed via Vercel/Netlify. Seven dashboards, eight visualizations — from a music industry revenue streamgraph to a Sankey energy flow diagram.
 
